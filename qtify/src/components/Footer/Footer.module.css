@@ -3,11 +3,11 @@
 .footer_container {
 	box-sizing: border-box;
 	font-family: "Poppins", sans-serif;
-	padding: 50px;
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	justify-items: center;
-	align-items: flex-start;
+
+	padding: 30px;
+    display: flex;
+	align-items: center;
+	justify-content: space-between;
 	color: white;
 	background-color: var(--color-primary);
 	margin-top: 10px;
@@ -35,4 +35,8 @@
 	list-style: none;
 	cursor: pointer;
 	padding-left: 0;
+
+}
+.second_col{
+	text-align: right;
 }
