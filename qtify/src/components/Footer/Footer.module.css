@@ -3,6 +3,7 @@
 .footer_container {
 	box-sizing: border-box;
 	font-family: "Poppins", sans-serif;
+
 	padding: 30px;
     display: flex;
 	align-items: center;
@@ -34,6 +35,7 @@
 	list-style: none;
 	cursor: pointer;
 	padding-left: 0;
+
 }
 .second_col{
 	text-align: right;
