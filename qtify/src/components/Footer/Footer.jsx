@@ -20,7 +20,7 @@ const Footer = () => {
 
                 <li>Navi Mumbai</li>
                 <li>qtifymegha@gmail.com</li>
-                <li>+91 8291194988</li>
+                <li>+91 8291194900</li>
 
                 
             </ul>
